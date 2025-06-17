@@ -8,7 +8,6 @@ const endpoint = "https://models.github.ai/inference";
 const model = "openai/gpt-4.1";
 
 export async function main() {
-
   const client = ModelClient(
     endpoint,
     new AzureKeyCredential(token),
