@@ -1,6 +1,4 @@
 
-
-
 # ☁️ Quest: I want to move my AI prototype to Azure 
 
 > To reset your progress and select a different quest, click this button:
